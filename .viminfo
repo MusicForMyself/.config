@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1590080190,,"wq!"
+|2,0,1590082419,,"wq!"
 :wq1
 |2,0,1590080183,,"wq1"
 :q!
@@ -40,36 +40,52 @@
 |3,1,36,0,1,0,1589786753,"/"
 
 # File marks:
-'0  15  0  ~/.ssh/config
-|4,48,15,0,1590080190,"~/.ssh/config"
-'1  2  0  ~/.xsession-errors
-|4,49,2,0,1589786757,"~/.xsession-errors"
-'2  2  4  ~/.xinitrc
-|4,50,2,4,1589786693,"~/.xinitrc"
-'3  1  0  ~/.xsession-errors
-|4,51,1,0,1589786661,"~/.xsession-errors"
+'0  8  8  ~/.gitignore
+|4,48,8,8,1590082419,"~/.gitignore"
+'1  15  0  ~/.ssh/config
+|4,49,15,0,1590080190,"~/.ssh/config"
+'2  2  0  ~/.xsession-errors
+|4,50,2,0,1589786757,"~/.xsession-errors"
+'3  2  4  ~/.xinitrc
+|4,51,2,4,1589786693,"~/.xinitrc"
 '4  1  0  ~/.xsession-errors
 |4,52,1,0,1589786661,"~/.xsession-errors"
 '5  1  0  ~/.xsession-errors
-|4,53,1,0,1589786560,"~/.xsession-errors"
+|4,53,1,0,1589786661,"~/.xsession-errors"
 '6  1  0  ~/.xsession-errors
 |4,54,1,0,1589786560,"~/.xsession-errors"
-'7  1  36  ~/.xsession-errors
-|4,55,1,36,1589786454,"~/.xsession-errors"
+'7  1  0  ~/.xsession-errors
+|4,55,1,0,1589786560,"~/.xsession-errors"
 '8  1  36  ~/.xsession-errors
 |4,56,1,36,1589786454,"~/.xsession-errors"
 '9  1  36  ~/.xsession-errors
 |4,57,1,36,1589786454,"~/.xsession-errors"
 
 # Jumplist (newest first):
+-'  8  8  ~/.gitignore
+|4,39,8,8,1590082419,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1590082400,"~/.gitignore"
 -'  15  0  ~/.ssh/config
 |4,39,15,0,1590080190,"~/.ssh/config"
+-'  15  0  ~/.ssh/config
+|4,39,15,0,1590080190,"~/.ssh/config"
+-'  1  0  ~/.ssh/config
+|4,39,1,0,1590080162,"~/.ssh/config"
 -'  1  0  ~/.ssh/config
 |4,39,1,0,1590080162,"~/.ssh/config"
 -'  2  0  ~/.xsession-errors
 |4,39,2,0,1589786757,"~/.xsession-errors"
 -'  2  0  ~/.xsession-errors
 |4,39,2,0,1589786757,"~/.xsession-errors"
+-'  2  0  ~/.xsession-errors
+|4,39,2,0,1589786757,"~/.xsession-errors"
+-'  2  0  ~/.xsession-errors
+|4,39,2,0,1589786757,"~/.xsession-errors"
+-'  1  0  ~/.xsession-errors
+|4,39,1,0,1589786734,"~/.xsession-errors"
+-'  1  0  ~/.xsession-errors
+|4,39,1,0,1589786734,"~/.xsession-errors"
 -'  1  0  ~/.xsession-errors
 |4,39,1,0,1589786734,"~/.xsession-errors"
 -'  1  0  ~/.xsession-errors
@@ -82,6 +98,22 @@
 |4,39,2,4,1589786693,"~/.xinitrc"
 -'  2  4  ~/.xinitrc
 |4,39,2,4,1589786693,"~/.xinitrc"
+-'  2  4  ~/.xinitrc
+|4,39,2,4,1589786693,"~/.xinitrc"
+-'  2  4  ~/.xinitrc
+|4,39,2,4,1589786693,"~/.xinitrc"
+-'  2  4  ~/.xinitrc
+|4,39,2,4,1589786693,"~/.xinitrc"
+-'  2  4  ~/.xinitrc
+|4,39,2,4,1589786693,"~/.xinitrc"
+-'  1  0  ~/.xsession-errors
+|4,39,1,0,1589786661,"~/.xsession-errors"
+-'  1  0  ~/.xsession-errors
+|4,39,1,0,1589786661,"~/.xsession-errors"
+-'  1  0  ~/.xsession-errors
+|4,39,1,0,1589786661,"~/.xsession-errors"
+-'  1  0  ~/.xsession-errors
+|4,39,1,0,1589786661,"~/.xsession-errors"
 -'  1  0  ~/.xsession-errors
 |4,39,1,0,1589786661,"~/.xsession-errors"
 -'  1  0  ~/.xsession-errors
@@ -98,6 +130,14 @@
 |4,39,1,0,1589786560,"~/.xsession-errors"
 -'  1  0  ~/.xsession-errors
 |4,39,1,0,1589786560,"~/.xsession-errors"
+-'  1  0  ~/.xsession-errors
+|4,39,1,0,1589786560,"~/.xsession-errors"
+-'  1  0  ~/.xsession-errors
+|4,39,1,0,1589786560,"~/.xsession-errors"
+-'  1  0  ~/.xsession-errors
+|4,39,1,0,1589786560,"~/.xsession-errors"
+-'  1  0  ~/.xsession-errors
+|4,39,1,0,1589786560,"~/.xsession-errors"
 -'  1  36  ~/.xsession-errors
 |4,39,1,36,1589786454,"~/.xsession-errors"
 -'  1  36  ~/.xsession-errors
@@ -106,6 +146,34 @@
 |4,39,1,36,1589786454,"~/.xsession-errors"
 -'  1  36  ~/.xsession-errors
 |4,39,1,36,1589786454,"~/.xsession-errors"
+-'  1  36  ~/.xsession-errors
+|4,39,1,36,1589786454,"~/.xsession-errors"
+-'  1  36  ~/.xsession-errors
+|4,39,1,36,1589786454,"~/.xsession-errors"
+-'  1  36  ~/.xsession-errors
+|4,39,1,36,1589786454,"~/.xsession-errors"
+-'  1  36  ~/.xsession-errors
+|4,39,1,36,1589786454,"~/.xsession-errors"
+-'  3  63  ~/.xsession-errors
+|4,39,3,63,1589786430,"~/.xsession-errors"
+-'  2  63  ~/.xsession-errors
+|4,39,2,63,1589786430,"~/.xsession-errors"
+-'  2  63  ~/.xsession-errors
+|4,39,2,63,1589786430,"~/.xsession-errors"
+-'  2  63  ~/.xsession-errors
+|4,39,2,63,1589786430,"~/.xsession-errors"
+-'  2  63  ~/.xsession-errors
+|4,39,2,63,1589786430,"~/.xsession-errors"
+-'  3  63  ~/.xsession-errors
+|4,39,3,63,1589786430,"~/.xsession-errors"
+-'  2  63  ~/.xsession-errors
+|4,39,2,63,1589786430,"~/.xsession-errors"
+-'  2  63  ~/.xsession-errors
+|4,39,2,63,1589786430,"~/.xsession-errors"
+-'  2  63  ~/.xsession-errors
+|4,39,2,63,1589786430,"~/.xsession-errors"
+-'  2  63  ~/.xsession-errors
+|4,39,2,63,1589786430,"~/.xsession-errors"
 -'  3  63  ~/.xsession-errors
 |4,39,3,63,1589786430,"~/.xsession-errors"
 -'  2  63  ~/.xsession-errors
@@ -190,80 +258,19 @@
 |4,39,2,0,1589786364,"~/.xinitrc"
 -'  2  0  ~/.xinitrc
 |4,39,2,0,1589786364,"~/.xinitrc"
--'  1  6  ~/.xinitrc
-|4,39,1,6,1589786353,"~/.xinitrc"
--'  1  6  ~/.xinitrc
-|4,39,1,6,1589786353,"~/.xinitrc"
--'  1  6  ~/.xinitrc
-|4,39,1,6,1589786353,"~/.xinitrc"
--'  1  6  ~/.xinitrc
-|4,39,1,6,1589786353,"~/.xinitrc"
--'  1  6  ~/.xinitrc
-|4,39,1,6,1589786353,"~/.xinitrc"
--'  1  6  ~/.xinitrc
-|4,39,1,6,1589786353,"~/.xinitrc"
--'  1  6  ~/.xinitrc
-|4,39,1,6,1589786353,"~/.xinitrc"
--'  1  6  ~/.xinitrc
-|4,39,1,6,1589786353,"~/.xinitrc"
--'  1  6  ~/.xinitrc
-|4,39,1,6,1589786353,"~/.xinitrc"
--'  1  6  ~/.xinitrc
-|4,39,1,6,1589786353,"~/.xinitrc"
--'  1  6  ~/.xinitrc
-|4,39,1,6,1589786353,"~/.xinitrc"
--'  1  6  ~/.xinitrc
-|4,39,1,6,1589786353,"~/.xinitrc"
--'  1  6  ~/.xinitrc
-|4,39,1,6,1589786353,"~/.xinitrc"
--'  1  6  ~/.xinitrc
-|4,39,1,6,1589786353,"~/.xinitrc"
--'  1  6  ~/.xinitrc
-|4,39,1,6,1589786353,"~/.xinitrc"
--'  1  6  ~/.xinitrc
-|4,39,1,6,1589786353,"~/.xinitrc"
--'  1  6  ~/.xinitrc
-|4,39,1,6,1589786353,"~/.xinitrc"
--'  1  6  ~/.xinitrc
-|4,39,1,6,1589786353,"~/.xinitrc"
--'  1  6  ~/.xinitrc
-|4,39,1,6,1589786353,"~/.xinitrc"
--'  1  6  ~/.xinitrc
-|4,39,1,6,1589786353,"~/.xinitrc"
--'  1  6  ~/.xinitrc
-|4,39,1,6,1589786353,"~/.xinitrc"
--'  1  6  ~/.xinitrc
-|4,39,1,6,1589786353,"~/.xinitrc"
--'  1  6  ~/.xinitrc
-|4,39,1,6,1589786353,"~/.xinitrc"
--'  1  6  ~/.xinitrc
-|4,39,1,6,1589786353,"~/.xinitrc"
--'  1  6  ~/.xinitrc
-|4,39,1,6,1589786353,"~/.xinitrc"
--'  1  6  ~/.xinitrc
-|4,39,1,6,1589786353,"~/.xinitrc"
--'  1  6  ~/.xinitrc
-|4,39,1,6,1589786353,"~/.xinitrc"
--'  1  6  ~/.xinitrc
-|4,39,1,6,1589786353,"~/.xinitrc"
--'  1  6  ~/.xinitrc
-|4,39,1,6,1589786353,"~/.xinitrc"
--'  1  6  ~/.xinitrc
-|4,39,1,6,1589786353,"~/.xinitrc"
--'  1  6  ~/.xinitrc
-|4,39,1,6,1589786353,"~/.xinitrc"
--'  1  6  ~/.xinitrc
-|4,39,1,6,1589786353,"~/.xinitrc"
--'  1  6  ~/.xinitrc
-|4,39,1,6,1589786353,"~/.xinitrc"
--'  1  6  ~/.xinitrc
-|4,39,1,6,1589786353,"~/.xinitrc"
--'  1  6  ~/.xinitrc
-|4,39,1,6,1589786353,"~/.xinitrc"
--'  1  6  ~/.xinitrc
-|4,39,1,6,1589786353,"~/.xinitrc"
+-'  2  0  ~/.xinitrc
+|4,39,2,0,1589786364,"~/.xinitrc"
+-'  2  0  ~/.xinitrc
+|4,39,2,0,1589786364,"~/.xinitrc"
 
 # History of marks within files (newest to oldest):
+
+> ~/.gitignore
+	*	1590082416	0
+	"	8	8
+	^	8	9
+	.	9	0
+	+	9	0
 
 > ~/.ssh/config
 	*	1590080188	0
